@@ -1,0 +1,29 @@
+{
+    "apiVersion": 2,
+    "name": "content-types-block/content-types",
+    "title": "Content Types",
+    "category": "widgets",
+    "icon": "list-view",
+    "description": "Display the Content Types terms for the current post.",
+    "supports": {
+      "align": true,
+      "color": {
+        "text": true,
+        "background": true,
+        "link": true
+      },
+      "typography": {
+        "fontSize": true,
+        "lineHeight": true,
+        "letterSpacing": true,
+        "textTransform": true,
+        "fontStyle": true,
+        "fontWeight": true
+      },
+      "spacing": {
+        "margin": true,
+        "padding": true
+      },
+      "customClassName": true
+    }
+  }
